@@ -1,2 +1,1 @@
-my name is joseph and I am a student at kepler
-I am in a team called 19s
+my name is joseph, I am a student at kepler in a team called 19s
